@@ -1,7 +1,7 @@
 # CNN-Codes
 Algorithmic representation of Codes for CNN
 
-Contact details : mitra.subhrajit007@gmail.com
+Contact details : mitra[dot]subhrajit007[@]gmail[dot]com
 
 MIT License
 
